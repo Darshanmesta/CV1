@@ -1,0 +1,26 @@
+body{
+  background-color: cornsilk;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 2px;
+  width:20%;
+  color: grey;
+
+}
+
+h3{
+  color: blueviolet;
+}
+
+a:hover{
+  background-color: crimson;
+}
+
+
+
+a:active{
+  background-color: darkcyan;
+}
